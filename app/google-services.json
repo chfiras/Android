@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "471298779046",
+    "firebase_url": "https://better-tunisia.firebaseio.com",
+    "project_id": "better-tunisia",
+    "storage_bucket": "better-tunisia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471298779046:android:31a197271016c843",
+        "android_client_info": {
+          "package_name": "com.BetterTunisia.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471298779046-oaaqeup2u28q7l96gdkg5t2r06rn8uud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYE9CoxhewiQ96sueBJy_9FjYBL36RSyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471298779046:android:1d67a7ab2027129e",
+        "android_client_info": {
+          "package_name": "com.example.firas.bettertunisia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471298779046-oaaqeup2u28q7l96gdkg5t2r06rn8uud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYE9CoxhewiQ96sueBJy_9FjYBL36RSyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
